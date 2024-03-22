@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <cd>
+    <title>Album Title 1</title>
+    <artist>Artist 1</artist>
+    <country>USA</country>
+    <price>9.99</price>
+    <year>1992</year>
+    <description>A wonderful collection of tracks from Artist 1!</description>
+  </cd>
+  <cd>
+    <title>Album Title 2</title>
+    <artist>Artist 2</artist>
+    <country>UK</country>
+    <price>12.50</price>
+    <year>1995</year>
+    <description>Artist 2's latest masterpiece!</description>
+  </cd>
+  <cd>
+    <title>Album Title 3</title>
+    <artist>Artist 3</artist>
+    <country>Germany</country>
+    <price>7.50</price>
+    <year>1998</year>
+    <description>Experience the unique sound of Artist 3!</description>
+  </cd>
+  <cd>
+    <title>Album Title 4</title>
+    <artist>Artist 4</artist>
+    <country>France</country>
+    <price>15.00</price>
+    <year>1994</year>
+    <description>Artist 4's classic album that you shouldn't miss!</description>
+  </cd>
+  <cd>
+    <title>Album Title 5</title>
+    <artist>Artist 5</artist>
+    <country>Canada</country>
+    <price>5.99</price>
+    <year>2000</year>
+    <description>Feel the essence of Canadian music with Artist 5!</description>
+  </cd>
+</catalog>

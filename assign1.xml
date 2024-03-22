@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--<!DOCTYPE library SYSTEM "assign1.dtd">-->
+<!DOCTYPE library SYSTEM "lab2.2.xsd">
+<library>
+ <location>alex</location>
+ <description></description>
+ <librarian type="alaa" >Umberto Eco</librarian>
+ <books>
+    <book ISBN="123">
+        <title>Traveling</title>
+        <author>Umberto Eco</author>
+        <preface>It is an historical murder mystery set in an Italian monastery in the year 1327</preface>
+        <parts>
+            <part title="Traveling">
+                <chapters>
+                    <chapter title="Traveling">
+                        <summary>. &writerInfo; Severinus of Sankt Wendel, the herbalist,</summary>
+                        <sections>
+                            <section>
+                                <content >
+                                    <![CDATA[
+                                            int x=5;
+                                            console.log(x);
+                                    ]]>
+                                </content>
+                            </section>
+                            <section>
+                                <content> It is an historical murder mystery set in an Italian monastery in the year 1327 </content>
+                            </section>
+                            <section>
+                                <content> It is an historical murder mystery set in an Italian monastery in the year 1327 </content>
+                            </section>
+                        </sections>
+                    </chapter>
+                     <chapter title="Traveling">
+                        <summary>. Severinus of Sankt Wendel, the herbalist,</summary>
+                        <sections>
+                             <section>
+                                <content> It is an historical murder mystery set in an Italian monastery in the year 1327 </content>
+                            </section>
+                            <section>
+                                <content> It is an historical murder mystery set in an Italian monastery in the year 1327 </content>
+                            </section>
+                            <section>
+                                <content> It is an historical murder mystery set in an Italian monastery in the year 1327 </content>
+                            </section>
+                        </sections>
+                    </chapter>
+                     <chapter title="Traveling">
+                        <summary>. Severinus of Sankt Wendel, the herbalist,</summary>
+                        <sections>
+                            <section>
+                                <content> It is an historical murder mystery set in an Italian monastery in the year 1327 </content>
+                            </section>
+                             <section>
+                                <content> It is an historical murder mystery set in an Italian monastery in the year 1327 </content>
+                            </section>
+                        </sections>
+                    </chapter>
+                </chapters>
+            </part>
+            <part title="Traveling">
+                <chapters>
+                    <chapter title="Traveling">
+                        <summary>. Severinus of Sankt Wendel, the herbalist,</summary>
+                        <sections>
+                            <section>
+                                <content> It is an historical murder mystery set in an Italian monastery in the year 1327 </content>
+                            </section>
+                        </sections>
+                    </chapter>
+                </chapters>
+            </part>
+            <part title="Traveling">
+                <chapters>
+                    <chapter title="Traveling">
+                        <summary>. Severinus of Sankt Wendel, the herbalist,</summary>
+                        <sections>
+                            <section>
+                                <content> It is an historical murder mystery set in an Italian monastery in the year 1327 </content>
+                            </section>
+                        </sections>
+                    </chapter>
+                </chapters>
+            </part>
+        </parts>
+    </book>
+    <book ISBN="456">
+        <title>Happening</title>
+        <author>Umberto Eco</author>
+        <preface>It is an historical murder mystery set in an Italian monastery in the year 1327</preface>
+        <parts>
+            <part title="Traveling">
+                <chapters>
+                    <chapter title="Traveling">
+                        <summary>. Severinus of Sankt Wendel, the herbalist,</summary>
+                        <sections>
+                            <section>
+                                <content> It is an historical murder mystery set in an Italian monastery in the year 1327 </content>
+                            </section>
+                        </sections>
+                    </chapter>
+                     <chapter title="Traveling">
+                        <summary>. Severinus of Sankt Wendel, the herbalist,</summary>
+                        <sections>
+                            <section>
+                                <content> It is an historical murder mystery set in an Italian monastery in the year 1327 </content>
+                            </section>
+                        </sections>
+                    </chapter>
+                     <chapter title="Traveling">
+                        <summary>. Severinus of Sankt Wendel, the herbalist,</summary>
+                        <sections>
+                            <section>
+                                <content> It is an historical murder mystery set in an Italian monastery in the year 1327 </content>
+                            </section>
+                        </sections>
+                    </chapter>
+                </chapters>
+            </part>
+        </parts>
+    </book>
+ </books>
+
+</library>

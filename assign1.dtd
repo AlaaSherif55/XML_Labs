@@ -1,0 +1,26 @@
+
+<!DOCTYPE library [
+<!ELEMENT library (location, description, librarian, books)>
+<!ELEMENT location     (#PCDATA)>
+<!ELEMENT description  (#PCDATA)>
+<!ELEMENT librarian    (#PCDATA)>
+<!ELEMENT books (book+)>
+<!ELEMENT book (title, author, preface, parts)>
+<!ELEMENT title       (#PCDATA)>
+<!ELEMENT author      (#PCDATA)>
+<!ELEMENT preface     (#PCDATA)>
+<!ELEMENT parts (part+)>
+<!ELEMENT part (title, chapters)>
+<!ELEMENT chapters (chapter+)>
+<!ELEMENT chapter (title, summary, section)>
+<!ELEMENT summary (#PCDATA)>
+<!ELEMENT sections (section+)>
+<!ELEMENT section (conetnt+)>
+<!ELEMENT conetnt (#PCDATA)>
+
+<!ATTLIST book ISBN CDATA #REQUIRED>
+<!ATTLIST part title CDATA #REQUIRED>
+<!ATTLIST chapter title CDATA #REQUIRED>
+<!ATTLIST librarian type (alaa|emad) "alaa">
+<!ENTITY writerInfo SYSTEM "writerInfo.txt">
+]

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <location></location>
+    <description><![CDATA[
+     
+    ]]></description>
+    <librarian></librarian>
+    <books>
+        <book>
+            <title></title>
+            <ISBN></ISBN>
+            <author></author>
+            <preface><![CDATA[
+                
+            ]]></preface>
+            <parts>
+                <part>
+                    <title></title>
+                    <chapters>
+                        <chapter>
+                            <title></title>
+                            <summary></summary>
+                            <sections>
+                                <section>
+                                  <content></content>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+    </books>
+</library>

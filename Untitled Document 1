@@ -1,0 +1,203 @@
+/* 1 */
+{
+    "_id" : ObjectId("65d3ab5c50e1dd095542f329"),
+    "firstName" : "Nouran",
+    "lastName" : "Tarek",
+    "email" : "Nouran@example.com",
+    "password" : "$2b$10$nCJTisKmpvgcS8Kl9b9yQO82tqRPIScIxiGG9.pbMOXZZm7Ofd7te",
+    "role" : "user",
+    "createdAt" : ISODate("2024-02-19T19:26:20.032Z"),
+    "updatedAt" : ISODate("2024-02-19T19:26:20.032Z"),
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("65d3adeab858c787f33af2af"),
+    "firstName" : "ali",
+    "lastName" : "Tarekk",
+    "email" : "ali@example.com",
+    "password" : "$2b$10$XhdcETzUugcRqzyY8eoahe5MMNEoOnEDILGsXSsiv8cddZ9e6kBZa",
+    "role" : "user",
+    "createdAt" : ISODate("2024-02-19T19:37:14.809Z"),
+    "updatedAt" : ISODate("2024-02-19T19:37:14.809Z"),
+    "__v" : 0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("65d5134e28299bdf249d7e6d"),
+    "firstName" : "alssi",
+    "lastName" : "Tarekssk",
+    "email" : "aliIi@example.com",
+    "password" : "$2b$10$Mr/x0OjOo17g8nkPv3BPo.VKFBlub2l4JHqz4CpxOONr34eZQsA6K",
+    "role" : "user",
+    "createdAt" : ISODate("2024-02-20T21:02:06.371Z"),
+    "updatedAt" : ISODate("2024-02-20T21:02:06.371Z"),
+    "__v" : 0
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("65d515cf9e040abe98f56505"),
+    "firstName" : "alssi",
+    "lastName" : "Tarekssk",
+    "email" : "aliIisss@example.com",
+    "password" : "$2b$10$hrBmGMugeQLoehJG5Abksu9nIppb4kk0I.l7R2R6BeH3W3xzdyus2",
+    "role" : "user",
+    "createdAt" : ISODate("2024-02-20T21:12:47.159Z"),
+    "updatedAt" : ISODate("2024-02-20T21:12:47.159Z"),
+    "__v" : 0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("65d51f751ab691953b90b315"),
+    "firstName" : "alssi",
+    "lastName" : "Tarekssk",
+    "email" : "asliIisss@example.com",
+    "password" : "$2b$10$qgJamQPJJyehjWPIba3I9e1em./.soZoPtXbQixbZYwspC7G429aK",
+    "role" : "user",
+    "createdAt" : ISODate("2024-02-20T21:53:57.671Z"),
+    "updatedAt" : ISODate("2024-02-20T21:53:57.671Z"),
+    "__v" : 0
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("65d5228656a5a48433457371"),
+    "firstName" : "alxi",
+    "lastName" : "Tarekk",
+    "email" : "alkki@example.com",
+    "password" : "$2b$10$EIulRRIXZBIGlyaaViyos.k3piOBb6fSFq8MNf4cqctaiETSi1F4u",
+    "role" : "user",
+    "createdAt" : ISODate("2024-02-20T22:07:02.458Z"),
+    "updatedAt" : ISODate("2024-02-20T22:07:02.458Z"),
+    "__v" : 0
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("65d52fbb41c3d889beb4f7d2"),
+    "username" : "nour",
+    "firstName" : "alxi",
+    "lastName" : "Tarekk",
+    "email" : "alskki@example.com",
+    "password" : "$2b$08$r5KlsGFMab8LzLfXAUO2oOY8RbtlbvlTsgDINd.mN6p3Pr9JiTyvO",
+    "role" : "user",
+    "createdAt" : ISODate("2024-02-20T23:03:23.305Z"),
+    "updatedAt" : ISODate("2024-02-20T23:03:23.305Z"),
+    "__v" : 0
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("65d53a3a8698082f716c0d16"),
+    "username" : "noour",
+    "firstName" : "nour",
+    "lastName" : "Tarek",
+    "email" : "admin1@example.com",
+    "password" : "$2b$08$g2c3lfznSMXRV4uJhK6AVuP62y2aUNF92mMcysC.hsZ/eIAk6exVa",
+    "role" : "admin",
+    "createdAt" : ISODate("2024-02-20T23:48:10.780Z"),
+    "updatedAt" : ISODate("2024-02-20T23:48:10.780Z"),
+    "__v" : 0
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("65d5da4c9ab9fc0fce4a0f03"),
+    "username" : "nour",
+    "firstName" : "ali",
+    "lastName" : "Tarekk",
+    "email" : "al888iIi@example.com",
+    "password" : "$2b$10$ZzDWnW4wm7yBMumOo7DHw.MuO4k049IXWE2.XYgh3PbBpzqqdXd0C",
+    "role" : "user",
+    "createdAt" : ISODate("2024-02-21T11:11:08.754Z"),
+    "updatedAt" : ISODate("2024-02-21T11:11:08.754Z"),
+    "__v" : 0
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("65d5dbf687d38a708d4ab66a"),
+    "username" : "alaaSherfi",
+    "firstName" : "alaaa",
+    "lastName" : "sherif",
+    "email" : "al888ssssiIi@example.com",
+    "password" : "$2b$10$Nriy5Ts9HOA7zpAkbGbbwexhfg/BHUluIgD6HaAHkT04dlCuY5zOa",
+    "role" : "user",
+    "createdAt" : ISODate("2024-02-21T11:18:14.781Z"),
+    "updatedAt" : ISODate("2024-02-21T11:18:14.781Z"),
+    "__v" : 0
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("65d608b97f613723e45dd4a9"),
+    "username" : "admin",
+    "firstName" : "emad",
+    "lastName" : "sherif",
+    "email" : "alaa@example.com",
+    "password" : "$2b$08$aByF1eYtVmdEng1KgzjyyetMCZSiOCcw/CeqNdmOfb4KgxgrD3.Tq",
+    "role" : "admin",
+    "createdAt" : ISODate("2024-02-21T14:29:13.841Z"),
+    "updatedAt" : ISODate("2024-02-21T14:29:13.841Z"),
+    "__v" : 0
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("65d734e690e9485703f75672"),
+    "username" : "sara",
+    "firstName" : "alxi",
+    "lastName" : "Tarekk",
+    "email" : "sara@example.com",
+    "password" : "$2b$08$m7xcWPwFK6/PBiZN8Isbu.ym8LctsoCkslxcK3uitztPnBieuA2fa",
+    "role" : "user",
+    "createdAt" : ISODate("2024-02-22T11:49:58.929Z"),
+    "updatedAt" : ISODate("2024-02-22T11:49:58.929Z"),
+    "__v" : 0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("65d735d6054ec4083d9cf94d"),
+    "username" : "samir",
+    "firstName" : "samir",
+    "lastName" : "Tarek",
+    "email" : "admin2@example.com",
+    "password" : "$2b$08$XWxGj4g5uP.aYO5ECMXr4OP89/cI0IRP5y40gHs5ubqSgtziZfAIC",
+    "role" : "admin",
+    "createdAt" : ISODate("2024-02-22T11:53:58.400Z"),
+    "updatedAt" : ISODate("2024-02-22T11:53:58.400Z"),
+    "__v" : 0
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("65d7148d9f501c11b3dd498d"),
+    "username" : "samir121",
+    "firstName" : "samir",
+    "lastName" : "Tarek",
+    "email" : "admin2@ample.com",
+    "password" : "$2b$08$KJOwravRgAsXwLT9UFs.1eESCjyFY46X3TiVfaOMFiC.YJS9W7esy",
+    "role" : "admin",
+    "createdAt" : ISODate("2024-02-22T09:31:57.828Z"),
+    "updatedAt" : ISODate("2024-02-22T09:31:57.828Z"),
+    "__v" : 0
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("65df153707b60edfedf747c1"),
+    "firstName" : "Hadeer",
+    "lastName" : "Khaled",
+    "email" : "hadeer.awad02@eng-st.cu.edu.eg",
+    "password" : "$2b$10$q47cSPGE8RoViOMug.kRVeqyAr6RnyRRduIeC9NqTFikNaHfbDtgK",
+    "role" : "user",
+    "createdAt" : ISODate("2024-02-28T11:12:55.293Z"),
+    "updatedAt" : ISODate("2024-02-28T11:12:55.293Z"),
+    "username" : "HadeerKhaledundefined",
+    "__v" : 0
+}

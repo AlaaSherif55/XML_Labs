@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <cd>
+    <title>Album Title 1</title>
+    <artist>Artist 1</artist>
+    <country>USA</country>
+    <price>9.99</price>
+    <year>1992</year>
+  </cd>
+  <cd>
+    <title>Album Title 2</title>
+    <artist>Artist 2</artist>
+    <country>UK</country>
+    <price>12.50</price>
+    <year>1995</year>
+  </cd>
+  <cd>
+    <title>Album Title 3</title>
+    <artist>Artist 3</artist>
+    <country>Germany</country>
+    <price>7.50</price>
+    <year>1998</year>
+  </cd>
+  <!-- Add more CD entries as needed -->
+</catalog>

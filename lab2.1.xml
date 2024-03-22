@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WeekDay xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"xsi:noNamespaceSchemaLocation="schema.xsd">
+   <WeekDay>1</WeekDay>
+   <WeekDay>2</WeekDay>
+   <WeekDay>Sunday</WeekDay>
+</WeekDay>
